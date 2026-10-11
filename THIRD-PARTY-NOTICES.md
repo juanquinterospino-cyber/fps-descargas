@@ -33,4 +33,3 @@ FPS está construido sobre [Electron](https://www.electronjs.org/) (licencia MIT
 ## Otras bibliotecas
 
 - [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) — MIT
-- [Tailwind CSS](https://tailwindcss.com/) — MIT (se usa al construir la interfaz)

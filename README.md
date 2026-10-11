@@ -16,7 +16,9 @@ Cuando un video 4K, de 60 fps o en un códec muy comprimido (como HEVC) se traba
 - **Formatos personalizados** (H.264 o Photo JPEG, resolución, fps, bitrate) y presets que se guardan con tu nombre. Incluye una medida para pantallas LED de 1920×384.
 - **Proporción bajo control:** barras negras, recortar o estirar, para que un video vertical o 4:3 no salga deformado.
 - **Cola de conversión:** arrastras varios videos, los ordenas y se convierten uno tras otro. En Mac puedes pausar uno largo para pasar uno corto de último minuto.
+- **Miniatura real de cada video** y tiempo restante estimado mientras convierte.
 - **Añadir desde enlaces:** pega un enlace público de Google Drive, Dropbox o un enlace directo y FPS lo descarga y lo convierte.
+- **Tema claro, oscuro o el de tu computador**, desde la rueda ⚙.
 - **Avisa cuando termina** y abre la carpeta con tus videos.
 
 ## Descargar
@@ -67,9 +69,9 @@ FPS convierte todo **en tu propio computador**: tus videos no se suben a ningún
 
 | Sistema | Estado |
 |---|---|
-| macOS Intel | Probado |
+| macOS Intel | Probado (v1.3) |
 | macOS Apple Silicon | En pruebas |
-| Windows 11 | Probado (instalación, descarga desde enlace y conversión) |
+| Windows 11 | Probado en v1.2 (instalación, descarga desde enlace y conversión); la v1.3 está en pruebas |
 
 ## Soporte y contacto
 
