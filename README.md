@@ -20,6 +20,7 @@ Cuando un video 4K, de 60 fps o en un códec muy comprimido (como HEVC) se traba
 - **Añadir desde enlaces:** pega un enlace público de Google Drive, Dropbox o un enlace directo y FPS lo descarga y lo convierte.
 - **Tema claro, oscuro o el de tu computador**, desde la rueda ⚙.
 - **Avisa cuando termina** y abre la carpeta con tus videos.
+- **Te pregunta antes de cerrar** si hay videos en proceso, para que un clic sin querer no te haga perder el avance.
 
 ## Descargar
 
@@ -52,6 +53,12 @@ shasum -a 256 FPS-…-mac-x64.dmg      # Mac
 certutil -hashfile FPS-Setup-….exe SHA256   # Windows (en el Símbolo del sistema)
 ```
 
+## Formatos
+
+Puedes soltar casi cualquier video. Probados con el motor de FPS en Mac: **MP4, M4V, MOV, MKV, AVI, WebM, MPG, TS, WMV, FLV, MXF (MPEG-2), ProRes y HEVC/H.265**, incluido video 4K a 60 fps, vertical o sin audio. Otros formatos de cámara (MTS, M2TS, 3GP…) deberían funcionar, pero no los hemos probado uno por uno. En Windows se usa el mismo motor, aunque no hemos comprobado cada formato allí.
+
+La salida es siempre un **MP4 (H.264)**, o un **MOV** si eliges Photo JPEG. Si sueltas algo que no es un video, FPS lo dirá al convertir.
+
 ## Cómo se usa
 
 1. **Arrastra tus videos** a la ventana (o usa *+ Añadir Videos* / *🔗 Añadir enlace*).
@@ -69,9 +76,9 @@ FPS convierte todo **en tu propio computador**: tus videos no se suben a ningún
 
 | Sistema | Estado |
 |---|---|
-| macOS Intel | Probado (v1.3) |
+| macOS Intel | Probado (v1.3.1) |
 | macOS Apple Silicon | En pruebas |
-| Windows 11 | Probado en v1.2 (instalación, descarga desde enlace y conversión); la v1.3 está en pruebas |
+| Windows 11 | Probado en v1.2 (instalación, descarga desde enlace y conversión); la v1.3.x está en pruebas |
 
 ## Soporte y contacto
 
