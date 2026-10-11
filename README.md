@@ -4,7 +4,7 @@
 
 <p align="center">Convierte videos pesados a un formato seguro para presentaciones, eventos y VJing.<br>Gratis · Mac y Windows · Sin instalar nada más</p>
 
-> ⚠️ **Aviso:** estamos **momentáneamente sin soporte en nuestro hosting**. Por eso el formulario de feedback de la app (menú *Ayuda → Enviar feedback*) todavía no está disponible y el correo puede responder con demora. Mientras lo resolvemos, escríbenos a **contacto@ascensodigital.cl** o por [WhatsApp](https://wa.me/56985314898). ¡Gracias por la paciencia!
+> ℹ️ **Aviso:** nuestro hosting ha tenido **interrupciones recientes**, así que el correo puede responder con algo de demora. Si algo no funciona, usa *Ayuda → Enviar feedback* dentro de la app, o escríbenos a **contacto@ascensodigital.cl** o por [WhatsApp](https://wa.me/56985314898) (lo más rápido). ¡Gracias por la paciencia!
 
 ---
 
@@ -88,7 +88,7 @@ Si algo no funciona o tienes una idea, escríbenos:
 - 💬 [WhatsApp](https://wa.me/56985314898)
 - 🌐 [ascensodigital.cl](https://ascensodigital.cl)
 
-Actualmente estamos **sin soporte en nuestro hosting de forma momentánea**: el formulario de *Ayuda → Enviar feedback* dentro de la app volverá a estar disponible en cuanto se resuelva, y el correo puede tardar en responder. Si es urgente, WhatsApp es lo más rápido.
+Dentro de la app, **Ayuda → Enviar feedback** abre un formulario sencillo que ya incluye tu versión y sistema, sin que tengas que escribirlos. Nuestro hosting ha tenido interrupciones recientes y el correo puede tardar en responder; si es urgente, WhatsApp es lo más rápido.
 
 Cuéntanos qué sistema usas (Mac Intel, Mac Apple Silicon o Windows), la versión de FPS (la ves en la parte superior de la app) y qué estabas haciendo cuando falló.
 
