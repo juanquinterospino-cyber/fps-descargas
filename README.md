@@ -69,7 +69,7 @@ FPS convierte todo **en tu propio computador**: tus videos no se suben a ningún
 |---|---|
 | macOS Intel | Probado |
 | macOS Apple Silicon | En pruebas |
-| Windows 10/11 | En pruebas |
+| Windows 11 | Probado (instalación, descarga desde enlace y conversión) |
 
 ## Soporte y contacto
 
